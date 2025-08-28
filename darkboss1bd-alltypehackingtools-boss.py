@@ -62,7 +62,7 @@ all_tools = [
     XSSAttackTools(),
     SteganographyTools(),
     OtherTools(),
-    ToolManager()
+    
 ]
 
 
